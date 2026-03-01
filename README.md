@@ -1,0 +1,1 @@
+This program captures highlighted text with one key and sends it to a custom notes app.
